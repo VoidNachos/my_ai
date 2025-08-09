@@ -1,0 +1,5 @@
+hi = it is a greating
+what = a question
+name = what you call someone
+name = what you call someone
+cat = a small animal

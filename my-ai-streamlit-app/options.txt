@@ -1,0 +1,10 @@
+embed_size=128
+num_heads=2
+num_layers=1
+lr=0.001
+chunk_size=100
+step_size=10
+gen_length=60
+context_max=5
+default_temp=1.5
+num_epochs=5
